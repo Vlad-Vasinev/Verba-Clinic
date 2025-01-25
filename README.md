@@ -1,5 +1,5 @@
 # This is Verba Clinic
-- click left bottom corner in order to see list of pages
+- click the left bottom corner in order to see list of pages
   - <img src="https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/list%20of%20pages.PNG" width="350">
 ## This project is about: 💻
 - making responsive website for popular medical company in Russia
